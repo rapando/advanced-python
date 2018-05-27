@@ -12,3 +12,6 @@
 9. PyCrypto
 10. Serialization with Pickle
 11. Decorators
+
+----
+[@samy_raps](https://twitter.com)
